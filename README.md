@@ -1,14 +1,5 @@
 ## All For One
-All For One é uma aplicação web desenvolvida para ajudar organizações sem fins lucrativos a encontrar voluntários dispostos a contribuir com seu trabalho e ajudar a tornar o mundo um lugar melhor.
-
-## Funcionalidades
-A aplicação possui as seguintes funcionalidades:
-Cadastro de organizações sem fins lucrativos
-Cadastro de voluntários
-Busca por voluntários com base em habilidades e interesses
-Busca por organizações sem fins lucrativos com base em área de atuação e localização
-Match de voluntários com organizações sem fins lucrativos
-Chat para comunicação entre voluntários e organizações sem fins lucrativos
+Projeto focado em praticar queries, utilizando como exemplo o banco de dados MySql.
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
