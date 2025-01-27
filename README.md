@@ -1,18 +1,24 @@
-## All For One
-Projeto focado em praticar queries, utilizando como exemplo o banco de dados MySql.
+# All For One
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- javascript
-- MySql
+This project focuses on practicing queries, using a MySQL database as an example.
 
-## Para instalar e executar o projeto em sua máquina local, siga os passos abaixo:
-- clone o repositorio deste projeto.
-- rode o comando npm run install.
-- rode os testes usando o comando npm run test;
+## Technologies Used
 
-## Principais Aprendizados
- principal aprendizado sendo a manipulação de banco de dados, usando o MySql Workbench e javascript em conjunto. Utilizando a metodlogia CRUD.
+- **JavaScript**
+- **MySQL**
 
-## Conclusão
-O projeto All For One foi uma ótima oportunidade para a equipe aprender e praticar o inicio do entendimento sobre Banco de dados, aprendendo a manipular-los e exibi-los.
+## Installation
+
+To install and run the project locally, follow the steps below:
+
+1. Clone the repository of this project.
+2. Run the command `npm run install`.
+3. Run the tests using the command `npm run test`.
+
+## Key Learnings
+
+The main learning was database manipulation using MySQL Workbench and JavaScript together, applying the CRUD methodology.
+
+## Conclusion
+
+The All For One project was a great opportunity for the team to learn and practice the basics of database understanding, learning how to manipulate and display data.
